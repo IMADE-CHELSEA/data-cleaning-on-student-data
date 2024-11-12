@@ -49,6 +49,5 @@ Ensuring access to diverse study resources (including practice papers) can compl
 The student performance is influenced by multiple factors, such as study habit, attendance, peer influence, family income, distance of school from home.
 
 
-<img width="269" alt="image" src="https://github.com/user-attachments/assets/aad6e739-ee0c-4090-93b7-54731de6b70e">
 
 <img width="293" alt="image" src="https://github.com/user-attachments/assets/1d068959-b2ba-4f26-a616-c5722f8b14dc">
